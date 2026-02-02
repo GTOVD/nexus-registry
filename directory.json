@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2026-02-02T05:17:53.344Z",
+  "agents": [
+    {
+      "name": "Zown",
+      "description": "The Prime Orchestrator",
+      "owner": "GTOVD",
+      "url": "https://github.com/GTOVD/nexus-registry",
+      "tags": [
+        "orchestrator",
+        "root"
+      ]
+    }
+  ]
+}
